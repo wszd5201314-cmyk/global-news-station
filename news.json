@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:51:17.192552+00:00",
+  "updated_at": "2026-11-14T03:59:08.115323+00:00",
   "timezone": "Asia/Shanghai",
   "items": [
     {
@@ -9,8 +9,30 @@
       "category": "国际",
       "title": "2026 U.S. House Election Results - AP News",
       "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUM0VmeFZ2SjF1RGJlVENLazFvbHZxWjRIYUlNMFlKal9sRW1ySS1UQWo4djh3cWpLcXJLWWFuWXBmdkllMTd2aVRhWF9YZFM5ZGRmN3pxZW5nWERXMjREbTVDeGF2RXRfM3ZTUw?oc=5",
-      "published": "2026-11-14T03:47:38+00:00",
+      "published": "2026-11-14T03:55:50+00:00",
       "summary": "2026 U.S. House Election Results AP News",
+      "important": false
+    },
+    {
+      "id": "fb90d6d207ffbf76",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "APEC会议周开启：不止有高层会晤，还有这些中国科技服务“上岗” - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9iMDlFTE0yVHo2U3hhN3JGYTNCUkhWYzNiZWNtU3p4X2czYUhieVRDM3QzTGhVTzR2UmctSEl5ZXJtdHNGdEV3UmstbEhBbVZnNktjRnA4LXlyanU5VjFuMVNlaDhrUkJTUTdjSnhtQTN4Z2xiVkJsSw?oc=5",
+      "published": "2026-11-14T03:54:44+00:00",
+      "summary": "APEC会议周开启：不止有高层会晤，还有这些中国科技服务“上岗” 新浪财经",
+      "important": false
+    },
+    {
+      "id": "3400200c52e8b863",
+      "section": "domestic",
+      "source": "中国新闻网·滚动",
+      "category": "综合",
+      "title": "香港新闻联创立30周年 李家超寄语业界“立身、立业和立家”",
+      "url": "https://www.chinanews.com.cn/dwq/2026/11-14/10731929.shtml",
+      "published": "2026-11-14T03:53:29+00:00",
+      "summary": "中新社香港11月14日电 (记者 戴小橦)“香港新闻工作者联会(简称“新闻联”)创立30周年联欢晚会”13日晚在香港举行。香港特区行政长官李家超在活动上致辞表示，期望业界继续用好香港高度国际化的传播优势，让国际朋友圈看到最真实的中国和香港好故事，彰显香港专业传媒联通中外、推动发展的专业风采。",
       "important": false
     },
     {
@@ -20,15 +42,59 @@
       "category": "国际",
       "title": "2026 U.S. Senate Election Results - AP News",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ycUhlZzZ2V1lhd2pzVExlRFNUOVV5M0N6VHB5a2FuNFU2NDNaV0dSTV9hUVZTZHZCeVRjeWRWMnh0NUVIRW1vbmhfNFRsSVRqSWIwM21iUmMxTE4zYzhocm81ajd4U0x2R0R0Q1Bn?oc=5",
-      "published": "2026-11-14T03:44:41+00:00",
+      "published": "2026-11-14T03:51:38+00:00",
       "summary": "2026 U.S. Senate Election Results AP News",
       "important": false
     },
     {
-      "id": "489b6785dfddfe5d",
+      "id": "54b99b9498492b40",
       "section": "domestic",
       "source": "中国新闻网·滚动",
       "category": "综合",
+      "title": "新疆库车市发生5.0级地震",
+      "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731928.shtml",
+      "published": "2026-11-14T03:51:25+00:00",
+      "summary": "中新社乌鲁木齐11月14日电 (胡嘉琛)据中国地震台网正式测定，11月14日0时17分新疆阿克苏地区库车市(北纬42.22度，东经83.64度)发生5.0级地震。截至发稿，未收到人员伤亡和财产损失报告。",
+      "important": false
+    },
+    {
+      "id": "e9335e36fd5d2a49",
+      "section": "domestic",
+      "source": "中国新闻网·滚动",
+      "category": "综合",
+      "title": "潘国强任宁德市委书记",
+      "url": "https://www.chinanews.com.cn/gn/2026/11-14/10731927.shtml",
+      "published": "2026-11-14T03:49:29+00:00",
+      "summary": "中新网宁德11月14日电 (记者 叶茂)福建官方14日通报，福建省委决定，潘国强任宁德市委书记。",
+      "important": false
+    },
+    {
+      "id": "5b5455adbc8c6e0b",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "首发！2026年中国国际秋季焙烤展【展后报告】！2027年展期可以收藏啦！ - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbXNGLUdfb2VFZVB3V0R1bnZraW9ON1UwQ0FSX2NGOExqem1pMzlCUW5lc1ZDRjN4Z0l1YmFkd2g0V0c4TXcyLWhDQXhiZDRDZ3R4ODd0cHozenFkYjJXV2ZwWnQ1a3RrYUxyZEdUc3loeFgxeDJMcjdyanhaOGRJdWJ1dlNiZlJi?oc=5",
+      "published": "2026-11-14T03:48:42+00:00",
+      "summary": "首发！2026年中国国际秋季焙烤展【展后报告】！2027年展期可以收藏啦！ Sohu",
+      "important": false
+    },
+    {
+      "id": "2276e8e606ad226a",
+      "section": "international",
+      "source": "Google新闻·商业",
+      "category": "财经",
+      "title": "FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue - CNN",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
+      "published": "2026-11-14T03:44:00+00:00",
+      "summary": "FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue CNN US flight outage live updates: FAA lifts nationwide ground",
+      "important": false
+    },
+    {
+      "id": "489b6785dfddfe5d",
+      "section": "international",
+      "source": "中国新闻网·滚动",
+      "category": "国际",
       "title": "爱尔兰在多国领导人晚宴地点附近查获爆炸装置",
       "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731932.shtml",
       "published": "2026-11-14T03:41:12+00:00",
@@ -80,17 +146,6 @@
       "important": false
     },
     {
-      "id": "2276e8e606ad226a",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue - CNN",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81eUJ1SV9Pd0hzS1ZmVk1Ec1A1MndfTTZiaFE0VGh4Ym04VnJMcWVOSHpOVmJYOFowSGtCOVB6Z3pUZGZoQmlVTHlDSG5lMldwZTZMNWFuRk9KM3ZnWXRlRTBid1ZRMGczVGh0OWkxa21OZmpMcHc?oc=5",
-      "published": "2026-11-14T03:30:00+00:00",
-      "summary": "FAA says airlines can resume flights after hours-long ground stop, but delays and cancellations to continue CNN US flight outage live updates: FAA lifts nationwide ground",
-      "important": false
-    },
-    {
       "id": "1069d8ed1197fc66",
       "section": "domestic",
       "source": "Google新闻·中国",
@@ -121,6 +176,17 @@
       "url": "https://www.chinanews.com.cn/ty/2026/11-14/10731930.shtml",
       "published": "2026-11-14T03:28:46+00:00",
       "summary": "“我害怕。”第一次戴上拳套的8岁男孩邓卓(化名)面对缓缓举起、戴好护具的对手，本能地闭上了眼睛。对此，教练没有催促，而是拿起一只裹着厚海绵的软拳套，轻轻碰了碰他的额头：“先让身体适应一下。”",
+      "important": false
+    },
+    {
+      "id": "e87f3455645fec2b",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "理响中国·讲好“中国式商量”故事｜一颗蓝莓的“最鲜一公里”——广州市花都区政协以提案履职助推设施农业提质增效 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBpRGpqaVhYRmdmeEEwSG14SmNnekhzNlhqb0JFVDhWTHpzSmF5ejN2b3BnWjhoUXFGWWVWYXgwMmY5eFVmS3M3dl91ak0?oc=5",
+      "published": "2026-11-14T03:28:34+00:00",
+      "summary": "理响中国·讲好“中国式商量”故事｜一颗蓝莓的“最鲜一公里”——广州市花都区政协以提案履职助推设施农业提质增效 凤凰网",
       "important": false
     },
     {
@@ -170,8 +236,8 @@
     {
       "id": "89123711d4d21d64",
       "section": "domestic",
-      "source": "中国新闻网·社会",
-      "category": "社会",
+      "source": "中国新闻网·滚动",
+      "category": "综合",
       "title": "贵州全面启动“寒冬送温暖”专项救助行动",
       "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731926.shtml",
       "published": "2026-11-14T03:25:23+00:00",
@@ -324,23 +390,12 @@
     {
       "id": "70596b92019e2e76",
       "section": "domestic",
-      "source": "中国新闻网·社会",
-      "category": "社会",
+      "source": "中国新闻网·滚动",
+      "category": "综合",
       "title": "“青春华章·我们的新长征”大思政课网络主题宣传和互动引导活动在天津举办",
       "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731911.shtml",
       "published": "2026-11-14T03:05:34+00:00",
       "summary": "中新网天津11月14日电(记者 张小雨)“一送里格红军，介支个下了山，秋风里格细雨，介支个缠绵绵……”",
-      "important": false
-    },
-    {
-      "id": "b6a83ca480f9d44d",
-      "section": "domestic",
-      "source": "Google新闻·中国",
-      "category": "综合",
-      "title": "《天涯共此诗》11月13日开播——以诗为桥，与中华文化相遇 - 中国日报网",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mRXd1c3gwdDgwWXJxM0JnUzRZV3p6WXNRMDhxeDZqd1pkYVZwVEU2WmRVMmlKZHBFXy1ObXhpaXFMNWlpTEFVOUt0SmhEbzduNFVRTktNRVB0MWw2LWhJenREd09UdmwzZ3E3TjhEaFJTQmdvc1d2Rmt3clM?oc=5",
-      "published": "2026-11-14T03:05:00+00:00",
-      "summary": "《天涯共此诗》11月13日开播——以诗为桥，与中华文化相遇 中国日报网",
       "important": false
     },
     {
@@ -355,6 +410,17 @@
       "important": true
     },
     {
+      "id": "b6a83ca480f9d44d",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "《天涯共此诗》11月13日开播——以诗为桥，与中华文化相遇 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5mRXd1c3gwdDgwWXJxM0JnUzRZV3p6WXNRMDhxeDZqd1pkYVZwVEU2WmRVMmlKZHBFXy1ObXhpaXFMNWlpTEFVOUt0SmhEbzduNFVRTktNRVB0MWw2LWhJenREd09UdmwzZ3E3TjhEaFJTQmdvc1d2Rmt3clM?oc=5",
+      "published": "2026-11-14T03:05:00+00:00",
+      "summary": "《天涯共此诗》11月13日开播——以诗为桥，与中华文化相遇 中国日报网",
+      "important": false
+    },
+    {
       "id": "66730414f817846e",
       "section": "domestic",
       "source": "中国新闻网·滚动",
@@ -367,9 +433,9 @@
     },
     {
       "id": "0473d596e50cd016",
-      "section": "domestic",
+      "section": "international",
       "source": "中国新闻网·滚动",
-      "category": "综合",
+      "category": "国际",
       "title": "美航空局解除航班停飞令 交通部长呼吁国会拨款500亿美元",
       "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731919.shtml",
       "published": "2026-11-14T03:01:22+00:00",
@@ -454,6 +520,17 @@
       "important": false
     },
     {
+      "id": "3d1c8ceac69107e5",
+      "section": "international",
+      "source": "AP·Google新闻",
+      "category": "国际",
+      "title": "Associated Press News: Breaking News | Latest News Today - AP News",
+      "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
+      "published": "2026-11-14T02:37:32+00:00",
+      "summary": "Associated Press News: Breaking News | Latest News Today AP News",
+      "important": true
+    },
+    {
       "id": "8854842117c68e2e",
       "section": "domestic",
       "source": "Google新闻·中国",
@@ -466,9 +543,9 @@
     },
     {
       "id": "9889c2ad284a53f4",
-      "section": "domestic",
+      "section": "international",
       "source": "中国新闻网·滚动",
-      "category": "综合",
+      "category": "国际",
       "title": "韩国政府连续三年单独举办佐渡金山劳工受害者悼念仪式",
       "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731894.shtml",
       "published": "2026-11-14T02:36:47+00:00",
@@ -510,9 +587,9 @@
     },
     {
       "id": "c1c73432968b31a4",
-      "section": "domestic",
+      "section": "international",
       "source": "中国新闻网·滚动",
-      "category": "综合",
+      "category": "国际",
       "title": "日本政府拟大幅增加防卫费引批评：扩军备武换不来安全",
       "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731909.shtml",
       "published": "2026-11-14T02:33:41+00:00",
@@ -586,17 +663,6 @@
       "important": false
     },
     {
-      "id": "3d1c8ceac69107e5",
-      "section": "international",
-      "source": "AP·Google新闻",
-      "category": "国际",
-      "title": "Associated Press News: Breaking News | Latest News Today - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiNkFVX3lxTE1JRTBkY0d6emFJTklfMk1FZkEtdnc2dmtQVGhJQUcxb3cxdVZNajFoUnMxbGx1UQ?oc=5",
-      "published": "2026-11-14T02:21:24+00:00",
-      "summary": "Associated Press News: Breaking News | Latest News Today AP News",
-      "important": true
-    },
-    {
       "id": "e54586f91a954e33",
       "section": "domestic",
       "source": "Google新闻·中国",
@@ -659,8 +725,8 @@
       "title": "US aviation agency lifts nationwide ground stop affecting all air travel",
       "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
       "published": "2026-11-14T02:15:53+00:00",
-      "summary": "Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identified FAA grounds thousands of flights – live The Federal Aviation ",
-      "important": true
+      "summary": "Sean Duffy, the transportation secretary, said the airspace was now open and the problem had been identified Airport chaos continues after FAA lifts ground stop – live up",
+      "important": false
     },
     {
       "id": "3ac38b6d2727fdb9",
@@ -742,8 +808,8 @@
     {
       "id": "390c06d82cf07d1b",
       "section": "domestic",
-      "source": "中国新闻网·社会",
-      "category": "社会",
+      "source": "中国新闻网·滚动",
+      "category": "综合",
       "title": "广西6位应急先进模范代表分享一线履职故事",
       "url": "https://www.chinanews.com.cn/sh/2026/11-14/10731888.shtml",
       "published": "2026-11-14T01:51:20+00:00",
@@ -818,9 +884,9 @@
     },
     {
       "id": "0aec5c41b5a68930",
-      "section": "domestic",
+      "section": "international",
       "source": "中国新闻网·滚动",
-      "category": "综合",
+      "category": "国际",
       "title": "美国联邦航空管理局：地面停飞令已解除",
       "url": "https://www.chinanews.com.cn/gj/2026/11-14/10731903.shtml",
       "published": "2026-11-14T01:44:50+00:00",
@@ -830,8 +896,8 @@
     {
       "id": "c6999dd6fcbdf166",
       "section": "domestic",
-      "source": "中国新闻网·滚动",
-      "category": "综合",
+      "source": "中国新闻网·财经",
+      "category": "财经",
       "title": "预计到2030年 我国新增清洁能源电量将覆盖新增用电量",
       "url": "https://www.chinanews.com.cn/cj/2026/11-14/10731902.shtml",
       "published": "2026-11-14T01:41:50+00:00",
@@ -1224,6 +1290,17 @@
       "important": false
     },
     {
+      "id": "07d52a7b1b220f9e",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "Wang Yi Meets with U.S. Representatives Attending the 2026 China-U.S. Political Parties Dialogue - Notion",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQWwwSkJxUlBsWTZVMS1aRFBqWjhzcEF3X0lVaGUteXFyNmhRbGlKUm5xS3pZaWhlZ2NCM0RWVG43S0x6cjlzSWEyTDVLbzIxMmFCSWJ6TmhfZE94UkRQMExWR29nOGxwckYwMkZTVlBKMy1IWWU0S05IekhKV1ZCQ2d1VGdhQl96enYyWW1KQ25BdFljdmdhNkstZVdHV3VBc1M3NmNGSXZlbmFPWGUtNlQwWUozbWNwWTRUYnFYM0R4cW5NZzY1aTBZb0QwaUVRZkR5aVV5bTJvRWlidUlrdDFGWE92dEk1UHlBYjZMUDlycUM2blE?oc=5",
+      "published": "2026-11-14T00:25:02+00:00",
+      "summary": "Wang Yi Meets with U.S. Representatives Attending the 2026 China-U.S. Political Parties Dialogue Notion",
+      "important": false
+    },
+    {
       "id": "46961d173432dd0e",
       "section": "international",
       "source": "Reuters·Google新闻",
@@ -1276,6 +1353,17 @@
       "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/microsoft-services-begin-recovering-after-global-outage?traffic_source=rss",
       "published": "2026-11-14T00:17:59+00:00",
       "summary": "Microsoft services began recovering on Friday after a global outage disrupted Outlook and Teams.",
+      "important": false
+    },
+    {
+      "id": "6216482c8baf67c7",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "深耕中国携手创新，开放合作共赢全球，外企成绩单是中国机遇绝佳例证 - 欧洲头条",
+      "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdHRBUGtXUnpYNDZJMUt0cW1VSnViZDBKQi1XY3RjODRpbFd2WWpteUpPRlFFcmhNanFvYU82R0NxYUVKQzRwcWF5VEtVOGFTd1dSMTEtQkI5QkRjOHRlQldvcHBFenRUUWFmOFU0YUZ0NUxNSGxzZVM4LVBQX1M4b3pPVUJsUnJXSHZ0bElVNnlKbmNxRzR0Y1pFbEVzb2NGcXFWQkIxaGtPcUFEbjFqTFg2UVpza0o1T3hqWE0ydWlqbE1Xc2JPT3pMOHMzaTFETWo4Q1NQWTdHMGs0dEJ5Z3lPcFBSZUNaa3RvOHlfZUtib0NyRDRISXV3QVRva2UzNWVn?oc=5",
+      "published": "2026-11-14T00:15:07+00:00",
+      "summary": "深耕中国携手创新，开放合作共赢全球，外企成绩单是中国机遇绝佳例证 欧洲头条",
       "important": false
     },
     {
@@ -1389,6 +1477,17 @@
       "important": false
     },
     {
+      "id": "1365da3dd1e40dd8",
+      "section": "international",
+      "source": "Reuters·Google新闻",
+      "category": "国际",
+      "title": "Fed's Jefferson says he is taking his policy cues from inflation - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+      "published": "2026-11-14T00:03:00+00:00",
+      "summary": "Fed's Jefferson says he is taking his policy cues from inflation Reuters",
+      "important": true
+    },
+    {
       "id": "f2265b553eebb97d",
       "section": "domestic",
       "source": "Google新闻·中国",
@@ -1409,17 +1508,6 @@
       "published": "2026-11-14T00:03:00+00:00",
       "summary": "连续增长！历史新高！“数”读中国经济的澎湃动能 中国经济网",
       "important": false
-    },
-    {
-      "id": "1365da3dd1e40dd8",
-      "section": "international",
-      "source": "Reuters·Google新闻",
-      "category": "国际",
-      "title": "Fed's Jefferson says he is taking his policy cues from inflation - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
-      "published": "2026-11-14T00:03:00+00:00",
-      "summary": "Fed's Jefferson says he is taking his policy cues from inflation Reuters",
-      "important": true
     },
     {
       "id": "7d6227e64cd65467",
@@ -1444,17 +1532,6 @@
       "important": true
     },
     {
-      "id": "6a27e90e93e07c6a",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
-      "published": "2026-11-14T00:00:00+00:00",
-      "summary": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal WSJ Nasdaq falls on Friday as Nvidia sells off, but index notches",
-      "important": true
-    },
-    {
       "id": "6999400bb85cafff",
       "section": "international",
       "source": "AP·Google新闻",
@@ -1464,6 +1541,28 @@
       "published": "2026-11-14T00:00:00+00:00",
       "summary": "Pope says it’s a ‘joy’ to be home as Peru’s Chiclayo welcomes back its former shepherd AP News",
       "important": false
+    },
+    {
+      "id": "597c556ad403be24",
+      "section": "international",
+      "source": "Google新闻·科技",
+      "category": "科技",
+      "title": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch - Nintendo Life",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMWlQR0xVRDNwZWdzQ25zT2FINVFfV2hCNUo4M3dTbXJsbmpYdHQ1UldaLWgtTEI3MlF5UUxpbWJTYmRBS3Vncjk1TUMtTkl0MHFRQkhGc3FzOXllNXJJR1ViWDRkeThCckJWYzVDNHZVWUtkaldDZFJyRjBpa2FKR3RVR1RqRE1sa1d5cGExRXZQREhvWWROVDExU3B5VVdlaEJJ?oc=5",
+      "published": "2026-11-14T00:00:00+00:00",
+      "summary": "Metaphor: ReFantazio Switch 2 Patch To Resolve Colour Glitch Nintendo Life METAPHOR: REFANTAZIO IS NOW AVAILABLE ON NINTENDO SWITCH 2 SEGA Award-winning fantasy RPG Metap",
+      "important": true
+    },
+    {
+      "id": "6a27e90e93e07c6a",
+      "section": "international",
+      "source": "Google新闻·商业",
+      "category": "财经",
+      "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
+      "published": "2026-11-14T00:00:00+00:00",
+      "summary": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal WSJ Nasdaq falls on Friday as Nvidia sells off, but index notches",
+      "important": true
     },
     {
       "id": "fd39d97880ffd466",
@@ -1584,6 +1683,17 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3o0c1gzR25rNWNPRzFQaGVULVNxUEQ2ZmFpWGdrLVRmcVVYZTNDdldlX1drLUhJR0FLcjVqdlRkRG9KbmdIY01ObDRjQkpGa2NIamZ3U1JoR3pmRGhySUJHdjV5SU01b091a2xsX3ZPUERlTnZwME00OGQ3TkZnODhiejA0VlZ6YjRRSE5SUVZMSWZfQjRCWEI4RXNGY1MzNVV5UDFSQU5RTm1mNFE?oc=5",
       "published": "2026-11-13T23:28:25+00:00",
       "summary": "No radar outage: National Weather Service sets record straight News4JAX US National Weather Service says its radars operating normally Reuters National Weather Service pu",
+      "important": false
+    },
+    {
+      "id": "595ec0a6ae225a98",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "APEC中国年丨这座城市以“专精特新”激活产业跃升新动能 - 新华网广东",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVZpamxFU3JTQmI4QmhvY0J2aWxHVnhhMk4zeGkzdTd6akVTSVNXV1FYdmtrMDMyQlNiX2htdmQtcjYzRGhkejJPT1pCdGdQQkRNcjlXNjliUF9Uei1CQVR0Rm9XTGVtX0lXWkZKU1BEZFBCSS1EQWhVTlQ2QnJuOTB3?oc=5",
+      "published": "2026-11-13T23:26:42+00:00",
+      "summary": "APEC中国年丨这座城市以“专精特新”激活产业跃升新动能 新华网广东",
       "important": false
     },
     {
@@ -1741,17 +1851,6 @@
       "important": false
     },
     {
-      "id": "b1e95f35e1865ff9",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0Nkc183ekxNZ0hpbEEyYkRTa1JMVy1ETHZMN0VubXFFNVBMWGZmeUkzSFRsNUhaajB0ZGdHMGJpektwVXAyc1N2TFBUSEdhb0FFMnJBNWdWckNiMjFld212QUZXcDlBQnJGSW5RSU1YN2FpUlNVaE1CaGc0Uk9UdjNHbEF4UzVyN3BGNE55LXFpTXJpcWNkNjFsV0swWGcxdFhaVWN2MEVSbjFNUU1pSXdsRkQtU1R0?oc=5",
-      "published": "2026-11-13T22:43:00+00:00",
-      "summary": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say TechCrunch Jensen Huang's ouster triggers an AI earthquake Axios Nvidia Faced Pressur",
-      "important": true
-    },
-    {
       "id": "60dd874a81d27359",
       "section": "international",
       "source": "AP·Google新闻",
@@ -1761,6 +1860,17 @@
       "published": "2026-11-13T22:43:00+00:00",
       "summary": "Microsoft outage shows the risks of relying on a single technology provider for essential services AP News",
       "important": false
+    },
+    {
+      "id": "b1e95f35e1865ff9",
+      "section": "international",
+      "source": "Google新闻·商业",
+      "category": "财经",
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0Nkc183ekxNZ0hpbEEyYkRTa1JMVy1ETHZMN0VubXFFNVBMWGZmeUkzSFRsNUhaajB0ZGdHMGJpektwVXAyc1N2TFBUSEdhb0FFMnJBNWdWckNiMjFld212QUZXcDlBQnJGSW5RSU1YN2FpUlNVaE1CaGc0Uk9UdjNHbEF4UzVyN3BGNE55LXFpTXJpcWNkNjFsV0swWGcxdFhaVWN2MEVSbjFNUU1pSXdsRkQtU1R0?oc=5",
+      "published": "2026-11-13T22:43:00+00:00",
+      "summary": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say TechCrunch Jensen Huang's ouster triggers an AI earthquake Axios Nvidia Faced Pressur",
+      "important": true
     },
     {
       "id": "2e2dba25ee6f026e",
@@ -1829,17 +1939,6 @@
       "important": false
     },
     {
-      "id": "0c9cf3887a9244a7",
-      "section": "domestic",
-      "source": "Google新闻·中国",
-      "category": "综合",
-      "title": "汇聚全球治理合力践行中国担当 - 中国经济网",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hdWE1eWcwUlBYVktrRjg3ZXZ3OWZFRVlUaGxlYWx3N1pPWDVPYUJ3VkVHWmJ1YWtnSVg1d0JrSmtIdXNOUUxvT3BJZTM4Z05aMEJhS2JmTnZOWU51WVBaajEzUDA2eDZzZ1hSaF83WQ?oc=5",
-      "published": "2026-11-13T22:18:00+00:00",
-      "summary": "汇聚全球治理合力践行中国担当 中国经济网",
-      "important": false
-    },
-    {
       "id": "9d45ea78a8bcea42",
       "section": "international",
       "source": "AP·Google新闻",
@@ -1848,6 +1947,17 @@
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZkE5dDF0akNzS0JidGwzRmdWcjg0UVVPWEV6a1hYbHc3bEtmOHcycUx4SGkySmFLOW9ManU2RV96WVhlVWZiUk1XR3Q2VGlHNWxYZHp1RUR0cllnSTBGeDIxNkM4RWhzaWVTNmhvc1FGWWRFNTdOcW9CbVE2Z24xWmIwMXNWQ2dIZ0VTb1hn?oc=5",
       "published": "2026-11-13T22:18:00+00:00",
       "summary": "Drone activity over US base in Britain prompts security response, US military says AP News",
+      "important": false
+    },
+    {
+      "id": "0c9cf3887a9244a7",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "汇聚全球治理合力践行中国担当 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hdWE1eWcwUlBYVktrRjg3ZXZ3OWZFRVlUaGxlYWx3N1pPWDVPYUJ3VkVHWmJ1YWtnSVg1d0JrSmtIdXNOUUxvT3BJZTM4Z05aMEJhS2JmTnZOWU51WVBaajEzUDA2eDZzZ1hSaF83WQ?oc=5",
+      "published": "2026-11-13T22:18:00+00:00",
+      "summary": "汇聚全球治理合力践行中国担当 中国经济网",
       "important": false
     },
     {
@@ -1881,6 +1991,17 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUGtiXzBZRFhJaW1nRHhZZGU0eGFXRlRITkxJcm04ak5TWmk2bHhnb1BZWUQ0WEhkcjVYdm44V21JV2d3anpZTENWSlFWWFBMNEVvZEt3cnFLZGxmcEZIUERYM3BWajE5YnN0UWxCY1VzbTZERk1TU3VTbjU0TUk0UzBETW1OaF93RzJvdk5KNjdYM25VSWhBNzZPalA3Mlh0T0RWYTVsVlY5cFdSNmM5aUI3ZkJFRmtzYTVxcWp6TTFQeFVsaUJxdmsyVXA3RGw3eUpLMUFjUVNyajVyakE?oc=5",
       "published": "2026-11-13T22:05:33+00:00",
       "summary": "The Meaning Of Jensen Huang’s Black Leather Jacket And Seven Other Iconic Billionaire Outfits Forbes Jensen Huang’s Leather Jacket Isn’t Helping Him Right Now The New Yor",
+      "important": false
+    },
+    {
+      "id": "9724b021bbe37b14",
+      "section": "international",
+      "source": "Google新闻·商业",
+      "category": "财经",
+      "title": "National Weather Service reports nationwide radar website outage amid FAA ground stop - News 9",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGxjX2ExOGtjV2tLWV8zZWVXOHRlVlNKbE9weEVtRkk0QlpqVl9zalFmVWJuQ1JZc00wWWNhajBpUEE2eUg0RHBZZE8tOXVBLVRoLW5TcS1rdGVJRUVVQ2ZFTEhMZURhSmE5SW1YY3hZbld6M1dxaXlxMDI0QWlPRjc1MC1LaFRCNUZzaTZvMTdjdHNCZnQzeFFqRm5wQS0tQmZYejB6cjk?oc=5",
+      "published": "2026-11-13T22:05:10+00:00",
+      "summary": "National Weather Service reports nationwide radar website outage amid FAA ground stop News 9 US National Weather Service says its radars operating normally Reuters Nation",
       "important": false
     },
     {
@@ -2089,7 +2210,7 @@
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech - BBC",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zYnBpVjNrcnhaTFU5TzNwSUc4UEw0TTRwS2ttcDVIM2hnTy1tcmQ5RlZvZ1ZCSkhCUlR1cFM3TVJNbGJxOGUzN2d4V3RRSTI5bTFWY2x6VVRZcmc?oc=5",
       "published": "2026-11-13T21:15:41+00:00",
-      "summary": "Microsoft outage 'stark reminder' of how much we rely on tech BBC Microsoft apologizes after major Outlook outage worldwide, blames technical issue Fox Business A massive",
+      "summary": "Microsoft outage 'stark reminder' of how much we rely on tech BBC Microsoft apologizes after major Outlook outage worldwide, blames technical issue Fox Business Microsoft",
       "important": false
     },
     {
@@ -2595,7 +2716,7 @@
       "title": "Here’s how you can save on your GTA VI preorder ahead of launch - The Verge",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSklVV1RaaEtDSVpXZlNsYzJDSE9OZnIyV2FObzFXS0lQRFhfVzNfZFJBeG5tbVpzMldXb3dCTGhQdDRYbE5OeDNQM2NpSkpuY3VIbThYMmxWR2Jwcy1iM3ZKT1RWWDlJY1hIaHJoU3dtNDJ1LTVkaERLYXA2VTFKRUJZdzltcWpxNmZyRVRIQ3NtSTRwNXFiQllXOA?oc=5",
       "published": "2026-11-13T19:14:38+00:00",
-      "summary": "Here’s how you can save on your GTA VI preorder ahead of launch The Verge Pre-Load Grand Theft Auto VI Now Rockstar Games Grand Theft Auto VI Comes to XBOX One and XBOX S",
+      "summary": "Here’s how you can save on your GTA VI preorder ahead of launch The Verge Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November ",
       "important": false
     },
     {
@@ -2720,6 +2841,17 @@
       "important": false
     },
     {
+      "id": "f7943b969ca91c4f",
+      "section": "international",
+      "source": "AP·Google新闻",
+      "category": "国际",
+      "title": "UK police launch sex offense investigation into children’s author and TV personality David Walliams - AP News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQczlhMFFEcjA0WHlFTW10cmZFdE9PYkpNemV2WV9pRHhxbTJMaE83akxtVnM4MVV0M3hWMkZTaFdSR0hBckU2NlgwcHB3SDVROUU4U0huVGJxc0pRSEVXWjVBM2h6X0RIaTl2V1BBOU5EeGZjQlpiSzlhTWRIb0x5QnhuOXd6ZHNnTHhUMklUczRRLWV5OXFoZXFHZEFwMUU?oc=5",
+      "published": "2026-11-13T18:42:00+00:00",
+      "summary": "UK police launch sex offense investigation into children’s author and TV personality David Walliams AP News",
+      "important": false
+    },
+    {
       "id": "280892e1d77a0614",
       "section": "international",
       "source": "Google新闻·商业",
@@ -2727,7 +2859,7 @@
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! - TechCrunch",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
       "published": "2026-11-13T18:40:30+00:00",
-      "summary": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! TechCrunch Alice Huang-Linked Firm Procured Banned Nvidia Chips in China Bloomberg ",
+      "summary": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! TechCrunch Alice Huang-Linked Firm Procured Banned Nvidia Chips in China Bloomberg.",
       "important": true
     },
     {
@@ -2909,12 +3041,12 @@
     {
       "id": "55b325c0930a83ad",
       "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
+      "source": "Reuters·Google新闻",
+      "category": "国际",
       "title": "US producer prices rise moderately in October, but inflation broadens out - Reuters",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
       "published": "2026-11-13T17:46:45+00:00",
-      "summary": "US producer prices rise moderately in October, but inflation broadens out Reuters Wholesale inflation rose in October to highest annual rate in nearly four years CNN Whol",
+      "summary": "US producer prices rise moderately in October, but inflation broadens out Reuters",
       "important": true
     },
     {
@@ -2986,12 +3118,12 @@
     {
       "id": "17484b296941381c",
       "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
+      "source": "Reuters·Google新闻",
+      "category": "国际",
       "title": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOcGIzcVZhWDU2cVlTWlhGZFZUMGlCcldoTU4wc2Z2UUpqUzJiNWp3Sy1kTVFQTnRKbHVnY2cwWHh0WEx3YkV5ZVMxOUFnMmVIc0kzaHdHc0NEVm9NS3hsVTdfTHR1ZWR4OTc2NUNpXzUteWZvblRYcEFVRDBIVTQyanVZTGdDYVFTaDJLTWFYdWNmSzBtU09Dd1RZVkhLUjB0WkR2Rm0tVTZnXzctWTREMXF3QjhZNTUxMHhDWjJZMHc?oc=5",
       "published": "2026-11-13T17:19:01+00:00",
-      "summary": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reuters Nvidia stock suffers longest weekly losing streak since 2012 as ",
+      "summary": "EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI projects reliant on Nvidia Reuters",
       "important": true
     },
     {
@@ -3457,17 +3589,6 @@
       "important": true
     },
     {
-      "id": "515ab21ad57b245f",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Wolfenstein 3 Is Officially In Production - Game Informer",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazF4UDVNeFdwbnNLYnNrN3V2ZnprcFljTXozbFVNMXUzLUlGM1l2TVBkTEsxZ1R5MWY4eDYxSW1DZFRrME1lX3FQVHM5NUVESVQzcHE3VVZuU0xOa01sTF9Hb2N3c0wzVFBYdzRmbEtaRkVxZkhscUhlVExKcGJ2TW1abw?oc=5",
-      "published": "2026-11-13T15:01:00+00:00",
-      "summary": "Wolfenstein 3 Is Officially In Production Game Informer ‘Wolfenstein 3’ in Development at Xbox’s MachineGames Variety Xbox Confirms Wolfenstein 3 Coming Soon and Id Softw",
-      "important": false
-    },
-    {
       "id": "098a6497ec0f1a14",
       "section": "international",
       "source": "AP·Google新闻",
@@ -3476,6 +3597,17 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVEt3ZU95cXQ3eWktb0Itb1FpTlZKV3NTUDBKNHJrX2gzenlJeDR1YUVRLVlPbjEwZWdWZ0d5NHZQUl83N0w4VjFGVjZld1VSZUF5MWJ4bXVTLU91THZPemFuOUJyWlFWb3hDTWhMckItM0lfTzhrclhCN0xpRGZTXy1ya2k4Sm9pT2tGMVF1Nlp3OHVOV0podzlmMzFaUVVoeXo4NVhMcmE1V1FIWjJXbUJ2LUhmRnJw?oc=5",
       "published": "2026-11-13T15:01:00+00:00",
       "summary": "ICE agents came to meatpacking country in Kansas. Then voters went to the polls AP News",
+      "important": false
+    },
+    {
+      "id": "515ab21ad57b245f",
+      "section": "international",
+      "source": "Google新闻·科技",
+      "category": "科技",
+      "title": "Wolfenstein 3 Is Officially In Production - Game Informer",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOazF4UDVNeFdwbnNLYnNrN3V2ZnprcFljTXozbFVNMXUzLUlGM1l2TVBkTEsxZ1R5MWY4eDYxSW1DZFRrME1lX3FQVHM5NUVESVQzcHE3VVZuU0xOa01sTF9Hb2N3c0wzVFBYdzRmbEtaRkVxZkhscUhlVExKcGJ2TW1abw?oc=5",
+      "published": "2026-11-13T15:01:00+00:00",
+      "summary": "Wolfenstein 3 Is Officially In Production Game Informer ‘Wolfenstein 3’ in Development at Xbox’s MachineGames Variety Xbox Confirms Wolfenstein 3 Coming Soon and Id Softw",
       "important": false
     },
     {
@@ -3644,17 +3776,6 @@
       "important": false
     },
     {
-      "id": "73463b68b7a84506",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "The Acura Integra Type S Goes Retro in Blazing Phoenix Yellow for 2027 - Road & Track",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUtSRXhWTndSSHZzV054Z2xtVld4TmxVSk1RMHBjcWlqdV83RFg3NXFUYi1pMTYwMTRWc1JsZkMxNVZWR29RTlU5Z2s3M290RTBUQWVnSFQ3TXRwYjdGTFF4RDd6anNwczJKeGwxTVVGVFBRUjFxX01hM044R25pT2hid2VxT0lVTnJGc2ZqZ3Y?oc=5",
-      "published": "2026-11-13T14:00:00+00:00",
-      "summary": "The Acura Integra Type S Goes Retro in Blazing Phoenix Yellow for 2027 Road & Track 2027 Acura Integra Type S Turns Back the Clock with This New Retro-Themed Model Car an",
-      "important": false
-    },
-    {
       "id": "0fe74ac919fa09ee",
       "section": "international",
       "source": "Google新闻·科技",
@@ -3674,6 +3795,17 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZSU85cFB0UDcyUmdJTm5xU2xRN3p6RnRQZnFhczA4WVUyTFNkRkNSSXVma2hQWHVrS01keTlsLUJvZlNfMkk0N0ZnNWxZOUpmbzlFdmdwVUYzUEFmM25tZXUtN1VzUWdoQW9fcFpVR0k3Zw?oc=5",
       "published": "2026-11-13T14:00:00+00:00",
       "summary": "The Motorola Signature 27 Is A Beast Engadget Motorola Signature 27 has a serious battery problem in some regions PhoneArena 6 reasons I'd still buy the Galaxy S26 Ultra ",
+      "important": false
+    },
+    {
+      "id": "73463b68b7a84506",
+      "section": "international",
+      "source": "Google新闻·商业",
+      "category": "财经",
+      "title": "The Acura Integra Type S Goes Retro in Blazing Phoenix Yellow for 2027 - Road & Track",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTUtSRXhWTndSSHZzV054Z2xtVld4TmxVSk1RMHBjcWlqdV83RFg3NXFUYi1pMTYwMTRWc1JsZkMxNVZWR29RTlU5Z2s3M290RTBUQWVnSFQ3TXRwYjdGTFF4RDd6anNwczJKeGwxTVVGVFBRUjFxX01hM044R25pT2hid2VxT0lVTnJGc2ZqZ3Y?oc=5",
+      "published": "2026-11-13T14:00:00+00:00",
+      "summary": "The Acura Integra Type S Goes Retro in Blazing Phoenix Yellow for 2027 Road & Track 2027 Acura Integra Type S Turns Back the Clock with This New Retro-Themed Model Car an",
       "important": false
     },
     {
@@ -4718,7 +4850,7 @@
       "title": "FBI says it's recovered $1.2 billion worth of cryptocurrency stolen from Binance - CBS News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43bUp2RG1MVE9CcnlUTl92U3p4U1J4Zl9qMEFiV2RzSUFkY2ttY2Y2aHc5Z09rN1ZRcUxoWWdZQks0X0w4bGdyNWpWcGdXRzQwdlpWTk1JVl9ZYUFMV2lzZjlsXzIzVlFuLVc1RkppTmJWcmQzcm1n?oc=5",
       "published": "2026-11-13T10:52:16+00:00",
-      "summary": "FBI says it's recovered $1.2 billion worth of cryptocurrency stolen from Binance CBS News FBI disrupts crypto theft scheme by North Korean hacking group; billions stolen ",
+      "summary": "FBI says it's recovered $1.2 billion worth of cryptocurrency stolen from Binance CBS News Hackers stole $6.3 billion from Binance—2 habits that take 'a few seconds' can h",
       "important": false
     },
     {
@@ -4807,6 +4939,17 @@
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQkRjOE5LVEVNUG9ZYVloa3N4UHRxMDZyU1dNdTZRLUtYNEtHSXBOSUxjLWJiVENIQ1BKUWQwNUlJcEVZSF8wZmdQLXNpRm9zOXdlU1RqSXY4QWdvdmdfUlNxVm1XT01YenFnZUZoU2d0ZHZQS1ZKTC0zV0xSV2RRLWRZeWdMN1N6c1NGZ216VUttQnNGOG9Mb3kySkJxcTQ?oc=5",
       "published": "2026-11-13T10:08:14+00:00",
       "summary": "India says will honour duty cuts on Scotch imports from UK Reuters",
+      "important": false
+    },
+    {
+      "id": "8cc411b446086f89",
+      "section": "domestic",
+      "source": "Google新闻·中国",
+      "category": "综合",
+      "title": "IC China阅兵：单点突破已经不够，现在拼整条产业链落地 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNQXdaTkUxSThOS2RCbUpGX2VIM2F1bV9nRGwydkxZVlAtSmxTUEJDTDd3S01XU3IwaHlHUG0xaDdGTnhDZ3BOdzBybXJQU3BrUWp2QVp6dTV4TFZkMHFvZ1NhMVBSeFpiUTFRd0x4YWNqR2hmdnpnS29BaHdKX3NjWklhblFldGhQN1pTYQ?oc=5",
+      "published": "2026-11-13T10:04:11+00:00",
+      "summary": "IC China阅兵：单点突破已经不够，现在拼整条产业链落地 Sohu",
       "important": false
     },
     {
@@ -5019,17 +5162,6 @@
       "important": false
     },
     {
-      "id": "406e7117430ad17b",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "TH EXCLUSIVE: Dubuque developer floats $52 million youth sports complex for SW Arterial - TelegraphHerald.com",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0drU1FCZ0lyUURnMVpzTzhFZUU4WnFoZnZ2VFUtR0ljV3JtZEZHbU9JWmQwcmh6OU1wLW85QlZOZVlCRE02NmlpMGZWMEpQbGloeHZMTDFTZHRFeE1yeUhYQm5iXzY3Z1BkSC1OVUdOZnFJNEUtaUNaUzhUMWtzWFFydFlteXF4Y3dJcWx0RElkWHlBQjlvYVBnMG4?oc=5",
-      "published": "2026-11-13T07:00:00+00:00",
-      "summary": "TH EXCLUSIVE: Dubuque developer floats $52 million youth sports complex for SW Arterial TelegraphHerald.com Dubuque City Council to weigh public hearings on $310M in prop",
-      "important": false
-    },
-    {
       "id": "f2fffa380ef6d06c",
       "section": "international",
       "source": "Reuters·Google新闻",
@@ -5038,6 +5170,17 @@
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbWY4UFhVeWZBSkUteDV4dHd0b3cyU3czTkdkU3ZLbU9zZzlhOGhTcDlDcTlmSVlKVUZFZDhwTWdmdG9zQkJHZ05jaXVad0ZpVGdsTHJvZ0VRT3Q4cXRMZFZ5cFpkR0Y5dmo4b3dlQ0F4RUVxZFFGanB4M1cxZmJlSERVQ0dQVDNWbVFVV2pJZ09XNG5DWlV2Zk4xdi1xRm9jUjhzVFl1akd1QQ?oc=5",
       "published": "2026-11-13T07:00:00+00:00",
       "summary": "Iran says tanker carrying LNG hit mine, suffered explosion in Hormuz Reuters",
+      "important": false
+    },
+    {
+      "id": "406e7117430ad17b",
+      "section": "international",
+      "source": "Google新闻·商业",
+      "category": "财经",
+      "title": "TH EXCLUSIVE: Dubuque developer floats $52 million youth sports complex for SW Arterial - TelegraphHerald.com",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOU0drU1FCZ0lyUURnMVpzTzhFZUU4WnFoZnZ2VFUtR0ljV3JtZEZHbU9JWmQwcmh6OU1wLW85QlZOZVlCRE02NmlpMGZWMEpQbGloeHZMTDFTZHRFeE1yeUhYQm5iXzY3Z1BkSC1OVUdOZnFJNEUtaUNaUzhUMWtzWFFydFlteXF4Y3dJcWx0RElkWHlBQjlvYVBnMG4?oc=5",
+      "published": "2026-11-13T07:00:00+00:00",
+      "summary": "TH EXCLUSIVE: Dubuque developer floats $52 million youth sports complex for SW Arterial TelegraphHerald.com Dubuque City Council to weigh public hearings on $310M in prop",
       "important": false
     },
     {
@@ -5138,677 +5281,6 @@
       "published": "2026-11-13T04:46:00+00:00",
       "summary": "Democrats flock to Denver for a post-midterms introspection-turned-celebration AP News",
       "important": false
-    },
-    {
-      "id": "5f1184338fcf0c8a",
-      "section": "international",
-      "source": "AP·Google新闻",
-      "category": "国际",
-      "title": "What we know after Jensen Huang resigns as Nvidia CEO - AP News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMUxqUTE0WWZBT2xoV25SLUQ2dFgyWkhwZFZyRnk3d1Fibmtrb0d4T3otSXNpNmZiTVh0QUdkWTA4UmQ3cXQyVVM3ODc0V0g4YnVVbDJRYWF4VXlaXzMzZnJWNi1UR3YyZHJGbWNzaVFab2tiM3N2RjFIOUtWcnlJVWtMVnhQNmhJeTdPajNVUXZfU2NzWkw0aGJLVFMtaGY3?oc=5",
-      "published": "2026-11-13T03:58:00+00:00",
-      "summary": "What we know after Jensen Huang resigns as Nvidia CEO AP News",
-      "important": true
-    },
-    {
-      "id": "61c71ed26c68590f",
-      "section": "international",
-      "source": "AP·Google新闻",
-      "category": "国际",
-      "title": "Is Outlook down? Widespread outage hits Microsoft email and other apps - AP News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOb2ZUZnZ6Z1JPSWM2YWVQel9wdC14MWloZ3FvX084b1RFcmRsUWhNZFJGSjZxd1hOOWZsb2ZEbTVqVWx3Zkl1T01TY21QUTRHVGRsUmF5bUx3UDctd0lJOGZlblJFYjRIMFEyNkZGTFl1R05jYS1PXzNXSWhIMHgtRDkwLU1XNTFUZmkxbGhoRS1CbWpKMHhfbFFWdlA?oc=5",
-      "published": "2026-11-13T03:55:00+00:00",
-      "summary": "Is Outlook down? Widespread outage hits Microsoft email and other apps AP News",
-      "important": false
-    },
-    {
-      "id": "218f014272cf54f1",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Trader Joe's Fans Are Up In Arms Over This Alleged Change: 'Where Is The Integrity?' - The Takeout",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbDFuLTNSaFZkQWJCdFMwSmNDcGFMcmNlVHNpaG03elZkLUNXYlJQcGlDeUhzLVRsaWhqZWpXR0pVVnlJUDk0dTJvN2ZqM280dXRTcXBLWmYwN2pDZS00STBvaUhIX05ud2llTDhCS0REWVlBcTZlanotTnliRi1MVG0tdw?oc=5",
-      "published": "2026-11-13T03:31:00+00:00",
-      "summary": "Trader Joe's Fans Are Up In Arms Over This Alleged Change: 'Where Is The Integrity?' The Takeout",
-      "important": false
-    },
-    {
-      "id": "58f7162583242a9f",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "NYT Strands hints, answers for November 13, 2026 - Mashable",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jSTR0c1FzcHVMUE9mQTctMWY4cHo4d2J4NzJwZzRQakZTMGd3bkJXbGlTbHBtUEVja0VvRkxfOE5kcHZhRHVhbGU2bWM1ajlZSmwzMHRva01ldnhDVTFrTWZLb0R1NDFVTV91dlF3TFpUc21aRlJv?oc=5",
-      "published": "2026-11-13T03:20:52+00:00",
-      "summary": "NYT Strands hints, answers for November 13, 2026 Mashable Today’s NYT ‘Strands’ Hints, Spangram and Answers for Thursday, November 12, 2026 Parade Magazine Today’s NYT St",
-      "important": false
-    },
-    {
-      "id": "4b8d5c22629c65ce",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Teen prodigy, Netflix star, prisoner: the story of Hong Kong dissident Joshua Wong – podcast",
-      "url": "https://www.theguardian.com/news/audio/2026/nov/13/teen-prodigy-netflix-star-prisoner-the-story-of-hong-kong-dissident-joshua-wong-podcast",
-      "published": "2026-11-13T03:00:06+00:00",
-      "summary": "Pro-democracy activist Nathan Law and journalist Danny Vincent on the sentencing of the iconic Hong Kong campaigner Joshua Wong to another 10 years in prison. Send your c",
-      "important": false
-    },
-    {
-      "id": "3d84c2e2e52b42b3",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port - Nintendo Life",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOVnVEdG8xNU5hREtTZHR0TmpDOHROc2FoTDZIVWxkYlFSSnRfeXhrMlJZckF3RURZcXpBME9pRnVMbzBneU1oaUtVb2pibERpSTlJZ3Z3RHRkcEkzMGRJMVkyUFBrUE5JdkRLcFlNeEtVTS05NzJHS3lndTA0b1FaSmxVVXVxWTdFNHplQ0xSbUZrd3JSMkItOTIxVV9ERWluQXYyVEZMeTF4RHZH?oc=5",
-      "published": "2026-11-13T02:55:00+00:00",
-      "summary": "Round Up: The Reviews Are In For Metaphor: ReFantazio's Switch 2 Port Nintendo Life METAPHOR: REFANTAZIO IS NOW AVAILABLE ON NINTENDO SWITCH 2 SEGA Metaphor: ReFantazio S",
-      "important": false
-    },
-    {
-      "id": "15a656c278614d2b",
-      "section": "international",
-      "source": "BBC World",
-      "category": "国际",
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "url": "https://www.bbc.co.uk/news/videos/cxvg23n59y1ro?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-13T02:24:11+00:00",
-      "summary": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
-      "important": false
-    },
-    {
-      "id": "82ff2b5243d6a1f8",
-      "section": "international",
-      "source": "BBC World",
-      "category": "国际",
-      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
-      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T23:42:52+00:00",
-      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
-      "important": false
-    },
-    {
-      "id": "7d811256fd5c2ed7",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "SpaceX to invest $74B into data center construction projects in Texas, Arizona - The Hill",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcUFWWkNjNXV0RmtjVld2QWxwalpmMGp2bVRHZUtSa1A5ZG5tYVJzajV1cG1WMjVOTnFPOU1URXMtcnNTT0VxWU1zdmxSMks2akZVWExNbUhRcUdpazN3aHdzNzNGaTVsZFIwaXdrSmpzbzlPdkoyQVhJUzZyZVR2dXRyUG9DOWVPekNIZWJuSdIBlAFBVV95cUxPcWJiNzVnZGpWaGJQc2MyREFfbnVzWEU3ZENIYmtUMTNjVS1lQ1VHZ1hfeUxwaVFJUXQyTGRXdnJrbEJiR25uM3VJU3R6ZENXcmJsMmdERHdHaWtSb1BZUzN0S3RDSTRhX0Q3ZFBjaW9RYTBTV3ZnZzZUV1VITDQwVnR2OGExUGtwU0U0c1RLWVN6WUdl?oc=5",
-      "published": "2026-11-12T23:24:00+00:00",
-      "summary": "SpaceX to invest $74B into data center construction projects in Texas, Arizona The Hill SpaceX plans over $74 billion investment in Texas, Arizona AI campuses Reuters Spa",
-      "important": false
-    },
-    {
-      "id": "ba2fea0e49798c8c",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Why Are Games Hiding Their Blatant AI Usage If They Think It's Totally Cool And Fine And The Future - Aftermath",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2cVZCeFFsNUQ0SXNEQ0ZZZy02SHJKZ3lWN1lDOThoLUxwb2x5RTl6MEt3OXBhSnI5anRnVkNqUEg2aXlaLTFBSmViVEQ3S3J3clRUTXYybWZwZ3BZbktXeWlna08yZHZQQjFr?oc=5",
-      "published": "2026-11-12T23:07:42+00:00",
-      "summary": "Why Are Games Hiding Their Blatant AI Usage If They Think It's Totally Cool And Fine And The Future Aftermath \"It's a wild situation\" – An investor and publisher perspect",
-      "important": false
-    },
-    {
-      "id": "6ab992f8d0371484",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu - The Verge",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTVZUcXhKcUpTUXpQeDQ1b3NNVnRlaVBPc19yQ2NLS2EzN3B3NUV4cDJuMTBHc0JsNWdjT2ZkTWpyUnBSMnNuY09tY1JwQUY5Q1pBQkJULURYejJvWDhVb1NIcjdIM3dENk1QTVRNOUh3NkFhWUMwRmpGOXNsR2lfeURoTXZPSG01NXhJTkJVUGxwSnZGSTAzY0t5bkRUSmE3WC1j?oc=5",
-      "published": "2026-11-12T23:00:00+00:00",
-      "summary": "Xbox owners are getting more customizations for backgrounds and the Guide menu The Verge Available for XBOX Insiders: More Ways to Personalize Your Home, Library, and Gui",
-      "important": false
-    },
-    {
-      "id": "241a8bf49a1a9e9c",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "Nscale updates IPO prospectus that shows widening loss - CNBC",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0M5bUIxTzMta1lmWFJ2SVllclhNQXBJdHhOaHNfOGsybFhKazFMc1JOZkZ5a1BtRFpoeGp1TXlPRUNKdWh0MTN5ZW9FdXNYS2FhZ1haSGhtV1RTazlSb0xqY1UzcmM3UkJDQTBoSlRQVGVaWHFLY1AtU2xKenNJOXh4TDV4dGFtZGlyUVg0bmNDdHhycGfSAZsBQVVfeXFMTUxJOGVGUnYzTWl4TEhjSVlBWFVjNFpQT1E4RExyMVhLTUc2RWFrNFJtdG9rQ0d5bXdsbktQQzhHNXpaNFFiUFo1dHNDNEVVZVYxN25NazdOcENyUFYwWGtSMGZFMGJJQmFHMHBiMElrZnNvZlZiekNLM2xIeFE1cWdPTWJQLWJUUW1nQW1UM29IRU0yUUlMTzc5UWc?oc=5",
-      "published": "2026-11-12T22:58:03+00:00",
-      "summary": "Nscale updates IPO prospectus that shows widening loss CNBC Neocloud Nscale Reveals $5.5 Billion Debt and Closer Nvidia Ties Ahead of IPO Bloomberg.com Nvidia-Backed Nsca",
-      "important": true
-    },
-    {
-      "id": "518a4f8dbdc1b354",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race - Politico",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZTFGbzdtVzREUTBscG9FbC1HSHU2N3pRcDg2TFR3RzRORW9oRWQwTHZrSnBENGRmcno3Nkt4M2lYOElvT2pnNDV5UFRCU3QyMGpkVnRLVXhVRGFWV2cydEI2WlRLaWs5Nmg4eUZ3T2RHbXBFT3ViX3ZmaW9MZ3B6OFZ0QmlJS3g5cFF3Q3cxVERlRExkbDBxRVowdmR1V0pZ?oc=5",
-      "published": "2026-11-12T22:24:00+00:00",
-      "summary": "Nonprofits sue Anthropic, Google, and other tech giants to freeze the AI arms race Politico OpenAI, Google, Anthropic hit with lawsuit seeking halt to frontier AI develop",
-      "important": false
-    },
-    {
-      "id": "ea3554309bb7c6f2",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Muse can now place calls to US businesses — if you pay - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWdKMWhEWU4zUHVyYkoybFMxVHIzRjIxekdSRUQzV0E0V2JKbjdxeW1YNEZjeXV2RFdpbUZsbWZJX2lWLXNUZ2QzWnJTVG85UWRwMEpoQ2NpRWRidDRVT0ROMnNPQ3BpLWZLTjhqVDFRdU04RUc5MzdOVVpuVm1xN0hwVTBGbU50ZWtLSk83eDROUQ?oc=5",
-      "published": "2026-11-12T22:22:28+00:00",
-      "summary": "Muse can now place calls to US businesses — if you pay TechCrunch Meta’s AI agent Muse lands on Apple Watch and Android Wear OS TechCrunch Meta's Muse Can Now Make Calls ",
-      "important": false
-    },
-    {
-      "id": "24922c7810ca60e3",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Candy Crush Saga Gives Halo, Fallout, Forza and More a Sweet Makeover for XBOX’s 25th - XBOX Wire",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWhnQjNpajlSYlRKdzNxYWF1bE5GSGlfalA2QXBiMUNPWE5wQTNwM0xrWXhweG92eWdYWl9YR3JWVnJhcXVIOUh4aU0tNHZ4SjBVeG5yVWtSaWg1V0FsRGZycVdwal90dEpzWmIwLTlWSmVNTmV5WjdaOVQ0dmlBWTB4dWVsY2RMQjdFc09DUlhXeVdjVjM2Q2NXUzI2X3hYS3fSAacBQVVfeXFMTm1ac2NSOTJzWDU4MlVucmNZUmV3R0VfRWhDN1Znb0FaOUZydkdSWWtrMW0xZVdmUmJMTHBkNlNFVEF1WTJDU2wyZGNwQklNbjdXVzhZRGVua0o3SFA3XzBLQThDVm5TcUtCQk50YmxRMU9xZW9TMElxQ0ZwREsxWFJtWmR0V2hnUGJ0bW93eW85NVhRVFFhTFV1Z3hDdFFyNFBiZTN5bU0?oc=5",
-      "published": "2026-11-12T22:06:41+00:00",
-      "summary": "Candy Crush Saga Gives Halo, Fallout, Forza and More a Sweet Makeover for XBOX’s 25th XBOX Wire Candy Crush crossover celebrates 25 years of Xbox with Halo, Spyro, Banjo-",
-      "important": false
-    },
-    {
-      "id": "4d4504b904792f37",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "China rules out hosting Cop33 climate summit in 2028",
-      "url": "https://www.theguardian.com/environment/2026/nov/12/china-rules-out-hosting-cop33-climate-summit-in-2028",
-      "published": "2026-11-12T22:00:15+00:00",
-      "summary": "Decision disappoints experts hoping for world’s biggest emitter to take global lead on climate crisis China has ruled out hosting the Cop33 UN climate summit in 2028 afte",
-      "important": false
-    },
-    {
-      "id": "5e1f4dadc4511bb7",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Xbox adds more OG console games to PC, including Knights of the Old Republic — now with achievements - Windows Central",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbXlLMmNrVlowdWVmR0J6MF9ydDUxeUp2OFMzQ1B2MFdYNGkwOU1zdWlfQnFQZ1FjLVBRZEd0V3FabnlnT3BjYjA4QzN3enRtXzJGdWdLU2ZUYkRyb1NSMERYYUxyWHJrcTJ1dzEtX2lodVpSZE1UZHo4UXFqeDFGaFJ2bXdubHJXbnN4ZXIyVGtOTkFlRkRoSjN0U3MtMFNUUXQ3RjNPa0tGaHBXTUIzUm95ZTItdm9KM0UtRXpfZnNsX1J0TThVRUNGbTYyTldPemliWUF3dw?oc=5",
-      "published": "2026-11-12T21:00:00+00:00",
-      "summary": "Xbox adds more OG console games to PC, including Knights of the Old Republic — now with achievements Windows Central 25 Original XBOX Games Available Today on PC via XBOX",
-      "important": false
-    },
-    {
-      "id": "a6a3cd41e1fce3b4",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Men: Here’s How to Upgrade Your Office Wardrobe With Vintage Clothes - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNelV0anlhUWFuejdoNnNpVmZOUzYwanZvaTBnZXB5RFhkMTVsQXNLUF9jQ0ZpdC1sdEtwb240dXNfOC1YblJsWVV3R0Y5S1poYWNNWE82YXlqbFB4NUJxamdCMEhPQ24yRlcxNG9LeDdxOTd5NW5aR0Vjbm5YNXNJbw?oc=5",
-      "published": "2026-11-12T21:00:00+00:00",
-      "summary": "Men: Here’s How to Upgrade Your Office Wardrobe With Vintage Clothes WSJ",
-      "important": true
-    },
-    {
-      "id": "d449ada0adc528fc",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them - The Register",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWlRDS0FrQTVoOWtIT1JsRnJScy1vVzVGRnJOakd0bkllUHdTNkhJVzd3OWZ0X2FDb1g3cG1YOVM4Q1I0TW5tWGpBd21URFFaTDVkS1NNaVVxX19MVTY0dFlFZ055VVR2OWJNSkd2MXZ6NXBoMTVldGNEakNJbEd0TnAxa1loV1FWcjByWGpWVmpvc2o5VmJsR3Jlb0Q1QXBkcWtTVXg4ZHpETktma3R0Y3pVUEZPOE1meEdwS2R4NU96MUJiS0lDQnJ1NXZPTzMxdVE?oc=5",
-      "published": "2026-11-12T20:48:45+00:00",
-      "summary": "OpenAI launches security products, tells orgs they’re doomed if they don’t use them The Register OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools Security",
-      "important": false
-    },
-    {
-      "id": "8b32da179cd0d46b",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover - Variety",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVWx6NElrYi1Ka0pJM194cUpNLW1BYnNjX3R1TzE4OVdKdlcxVnQ2cGMtZm41SjNqS1ZjYVUtLW5vVGtrZXVKZWpiNEQ3am9lWFlCdzc5ckNua01ObUppZVJIVUdsVlR2YllFUWVHaUxqakVSaThWcFJodUZSZlFNVEdqenhtbTVBbVk0c0F4SDk?oc=5",
-      "published": "2026-11-12T20:36:00+00:00",
-      "summary": "‘Unlike Anything Else’: As ‘GTA 6’ Approaches, the Gaming Industry Braces the World for Its Pop Culture Takeover Variety 'Grand Theft Auto VI' is almost here. What to kno",
-      "important": false
-    },
-    {
-      "id": "e68b1fc25400c760",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Apple Continues to Move Up iPhone Duo Delivery Dates - MacRumors",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUXMxS09jWFV6RGFab1ZTRThwWDllMDdLeXo5eGpZX3RRWllMUkM4X3VuOE05VmJySS12UDNXVkVNU1llblBDSmNaZk9xTUlFVHF6UUJCaGE5SHhGSEpDalVFUGt0Vy1abnRLdk1vTmRJVC1lbi1nWERGN2t5SmFsYkIzX0xZOGktR1Jr?oc=5",
-      "published": "2026-11-12T20:28:50+00:00",
-      "summary": "Apple Continues to Move Up iPhone Duo Delivery Dates MacRumors Apple's First Foldable iPhone Sells Out in Minutes Despite $2,000 Price Seoul Economic Daily Some iPhone Du",
-      "important": false
-    },
-    {
-      "id": "346b7e8ea6283eaa",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "NYC Council passes ban on 'surveillance pricing' that relies on personal data - Gothamist",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQXZUNXhwbFExWjZUZUZqWmNrQjFkOXlHVlJNUE1jXzcwNno4MjdBSDJOUGVLcXM4S1g5b2N5a2EzT0piRWNMNkRyT09Ud2hrM3Rtbi1VZGd4WEVmazNNMUI0YjFaNk5vZEJ4WDlCOGlGU09nbDNmb1RRazFUc2dFbmZjaUxra2VqZWpGdWgyUl9NMXI0V3Rkak4wdHZnSllnX3hSNQ?oc=5",
-      "published": "2026-11-12T20:24:41+00:00",
-      "summary": "NYC Council passes ban on 'surveillance pricing' that relies on personal data Gothamist New York City Will Ban Companies From Setting Variable Prices The New York Times B",
-      "important": false
-    },
-    {
-      "id": "3ebf02a2c3713229",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "SpaceX and Tesla Talks on Record Merger Are Said to Progress - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOVhjTWZjYS1paVVuVHpOVmJRaFpkclFuVmtDZ1RYQS1tUjI3YlNoTURnMWwyMUNxRlJEdXVYVHZoNUxRTUVOT28xS0JzS2thUmQ4WE5jMEgtajNlRWhCc1UzRkxBZGRuV2tRZWlmQjFBbmxPbk1ZVjI1Vy1wVy1fRTFaTXgxMjFpNDNKeDg0alZTLUhzZXNKYmxkNlNrMFZwdHBkTEJFTEhrQmNZdE40ZQ?oc=5",
-      "published": "2026-11-12T20:22:35+00:00",
-      "summary": "SpaceX and Tesla Talks on Record Merger Are Said to Progress Bloomberg.com SpaceX, Tesla Merger Puts Musk At Forefront Of 'Revolutionary' Tech, Analyst Says Investor's Bu",
-      "important": false
-    },
-    {
-      "id": "94ba9189db026d97",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Xbox Releases New Fable Gameplay Ahead of Company's 25th Anniversary - IGN",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzcG9WZ3lYQi1rdkQwVXluVjRkYW53bHRpZkpzbW1WenY0YktKdlVBRlpaclNyLVYwNDNBZk5ONXlYclFqSFVIM2oxeXFwYXROc1g2UEh4QW12a25RWXRJRlVxUm1VTFFSOWFfanVvWUhMVjhzSldlNA?oc=5",
-      "published": "2026-11-12T20:16:04+00:00",
-      "summary": "Xbox Releases New Fable Gameplay Ahead of Company's 25th Anniversary IGN Xbox Shares New Fable Trailer that Divides the Fanbase Polygon.com New 4-minute Fable gameplay tr",
-      "important": false
-    },
-    {
-      "id": "1d4f3727921ff538",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Halo: Campaign Evolved Gets Firefight Mode In Free Update This Winter - Game Informer",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZWFmb3E0OEpRVlFwZ2JMS29kR1ZWTWlNQ3ZyMjMza0tGc082Z2o5VFNaQll0Rmo5TkhkX2lPbTI2TlFvdl9iSGpCektIQTFKRnE2SzNDSnFMSy12Nzk3NFJlMTJWeXRNVzNqOElOa2Job3dIU1M5Q0lZQTJYcUtwcFVyaExINU5WMExKdXRWTmQ4b216clowZFUydjlUN1lTUHlMZUkzaw?oc=5",
-      "published": "2026-11-12T20:05:00+00:00",
-      "summary": "Halo: Campaign Evolved Gets Firefight Mode In Free Update This Winter Game Informer Halo: Campaign Evolved Players Can Jump Into Firefight for Free This Winter XBOX Wire ",
-      "important": false
-    },
-    {
-      "id": "d1b8e606cb921afb",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Slaughter Mode arrives to DOOM: The Dark Ages | Revelations November 16 - Slayers Club",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPazlRS1NhOHNKSEw2d282QjdtbExMZGw1MEQ5TkpMZE9YajB1YWotOGQ1R1JscUNmcThEb2pOOW1sWl9Zb3hQbzB5bFpfejcxeXhzdURkekdGa3dpdnZwaHFFOGdZa3dBMzRFTHlEejhTSWFrUjFNc0NkWm04S29nYVY4TkJwdFZ3ZnVzS1ZtUzJCQ2JoNHg3dzdpWEs?oc=5",
-      "published": "2026-11-12T20:00:00+00:00",
-      "summary": "Slaughter Mode arrives to DOOM: The Dark Ages | Revelations November 16 Slayers Club Bethesda Celebrates XBOX 25 with id Software & MachineGames News XBOX Wire Doom studi",
-      "important": true
-    },
-    {
-      "id": "f77d60df18a465f4",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Two men found guilty of helping Iran try to ‘eliminate’ UK-based journalists",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/12/two-men-found-guilty-over-iranian-attempts-to-eliminate-uk-based-journalists",
-      "published": "2026-11-12T19:15:30+00:00",
-      "summary": "Mostafa Sepahvand and Farhad Javadi Manesh carried out surveillance in an effort to inflict violence on targets Two men of Iranian origin who were hired through social me",
-      "important": false
-    },
-    {
-      "id": "7a7a14bda114f67a",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Roku drops smart home products to focus on streaming – what that means for your devices - ZDNET",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPakhDYWVIQlVXRHU5ZTNDVWJIak0xVWVQdW9SMUJSQmpZM2ctcklFRjduamJJYjdyZjJaMlRiTlMydGJYaldQbm1rTGFLbV9mSk9TOVVWRms4YnppaWRpbDNHNm9vNFhKZll4Q0xGcHdIVmttaUFNSjBwVThXRFM0RDZR?oc=5",
-      "published": "2026-11-12T18:43:08+00:00",
-      "summary": "Roku drops smart home products to focus on streaming – what that means for your devices ZDNET Scoop: Roku is exiting the smart home business Lowpass Back to Streaming: Ro",
-      "important": false
-    },
-    {
-      "id": "63d8a61b779b3f82",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more - 9to5Mac",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNREo1eWdlMUk2dkF6LUdibjVsRmZIR3ptN251OHViUElLX3BxQ3dpdXVEX2VweU5DLVlwQ3k5OVQwRzFmYi1xNEp5d1FidXFORGsxRHNDMVNiVlZpQk1HTVRmYjg2YXA0elAzWGxCUWVnWlZwZm51SFUweUQzTTRpb3FYY2tYN2lHMXFXck93MEstNWkzcWdzc0ExQkJZTzRqTG0xOEZEWDA?oc=5",
-      "published": "2026-11-12T18:40:00+00:00",
-      "summary": "Grok Bot for Mac adds integration with Apple Mail, Messages, Notes, and more 9to5Mac Introducing Grok Bot 1.0 xAI SpaceXAI Grok Bot Availability Just Keeps Growing - Here",
-      "important": false
-    },
-    {
-      "id": "4da9996fb3460fce",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Get Shiny Xerneas in Pokémon Legends: Z‑A via Mystery Gift - Pokemon.com",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMVlVdDZUNDlJOWkyemh2Z0lqX2lINTNnVTZNSjdQdnJFUExtajl5RGN0MXdfUTZ3NkFlVEdja05qai13ZlRSUlhTOXRqSHZEZzM2aGVvQUo2aHFDQU45NUowRzQtU3BqNmRQOVNZN1pNeTluenM2XzZldUdhdXFwUmpteUFrVDQ4d0w3bjExaXdKNWs?oc=5",
-      "published": "2026-11-12T18:34:57+00:00",
-      "summary": "Get Shiny Xerneas in Pokémon Legends: Z‑A via Mystery Gift Pokemon.com Grab a Shiny Xerneas in Pokémon Legends: Z-A bundle in Pokémon Pokopia with new Mystery Gift code N",
-      "important": false
-    },
-    {
-      "id": "a6424c9d5ca18033",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Google Search gets major upgrade with Gemini 4 Hydrogen - Search Engine Land",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNYTJlelI2cWwtaFlMci1xSTctbEozeVlCclYtbm5MUG5GZzM2eXlpWGNUaGlOSVBpVW1jUlBSUUF2dmZHVVREV3ZiT0RzSVhVVmotVHpnV1VhcTZRYmhnZXV0NGhCTU1MVWFJMTRlZFdpcXVwUnFaMDBXdnNFOGZpWGx5QkhJdFY1OTltWVpUczlGb0plekE?oc=5",
-      "published": "2026-11-12T18:31:38+00:00",
-      "summary": "Google Search gets major upgrade with Gemini 4 Hydrogen Search Engine Land Introducing Gemini 4 Hydrogen for Agentic Workflows blog.google Google rolls out Gemini 4 Hydro",
-      "important": false
-    },
-    {
-      "id": "e83ff9705fbb3a52",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Lewis Hamilton says ‘Israel’s genocide in Gaza is appalling’ after Rafah visit",
-      "url": "https://www.theguardian.com/sport/2026/nov/12/lewis-hamilton-gaza-visit-rafah-israel",
-      "published": "2026-11-12T18:00:50+00:00",
-      "summary": "F1 driver urges Israel to let aid into Gaza Trip involved tour of facilities with aid workers Formula One driver Lewis Hamilton said on Wednesday that Israel must allow a",
-      "important": false
-    },
-    {
-      "id": "e460b21357292dae",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "Owner of St. Paul's Cossetta restaurant dies unexpectedly in Rome - MPR News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPc1dYVDloMVZXRVFKcTJyaVpRYmlkanNPcS1jOXFLeExGb0tMZXFxN3c2VzZOQ3RfVW16ZmpMRkh2UXc0UkFpTktwRk5xU01BZUFPampVWXFmNXlVcU40S0RvZzB3cV9GbEJ2QS1kMEdSeFhkNERYaTVHVjNNWjFDUnNsdkM4aXZkbDBjSlNmWW9qNUcySkhpMGt1RjFYa280WS1naE10V2pKbUNxTWhQay03YVA5VTVaRFE?oc=5",
-      "published": "2026-11-12T17:53:00+00:00",
-      "summary": "Owner of St. Paul's Cossetta restaurant dies unexpectedly in Rome MPR News St. Paul’s Dave Cossetta remembered for his tenacity, mentorship and generosity Star Tribune St",
-      "important": false
-    },
-    {
-      "id": "d49846bec389c062",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Christopher Ward’s King of Attainable Grail Watches Drops Its Most Impressive Version Yet - Gear Patrol",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1IVzBlNjU2VVhPN3FQVFdJa1FhOEh5TGlaakM1RVozSFlVRGhvZnBIOGFJaDhzUHFtdDd3bjJMMFB1TXZxMW1ic1RvamxSRUt2SjM2RDFKa3N6UlhkNEtGVGc2ek82TnZsZk1VMVlpN28zekJZY1Y0?oc=5",
-      "published": "2026-11-12T17:49:24+00:00",
-      "summary": "Christopher Ward’s King of Attainable Grail Watches Drops Its Most Impressive Version Yet Gear Patrol Christopher Ward and Mr. Jones Launch the New C1 Bel Canto Lucia Wor",
-      "important": true
-    },
-    {
-      "id": "36abe48b7d2b55d7",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "New GTA 6 Gameplay Clip Showcases Hyper Realistic Graphics and Fans Can't Quite Believe It's Real - IGN",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcUllS2xNa3J6QzNrS1VmTllTVHNac1JmVnU0dElqYWQwbFZsWS1zOV80OHVHdjJONjE0d3VuLV91TFJIbXM2MzUzN2VLZks4RmNCS3o2ZVRScU44TTNOZ1ozZDVLMTJoSmstRzhlcUZZWnpUOGVfVzA4NWVCc0ROSUVoYnRIR0EzZFNUem9selQ1RVJFN3IyOWc1U2VjLV94Ym1mTDRRUkZNTkdwR2c?oc=5",
-      "published": "2026-11-12T17:37:39+00:00",
-      "summary": "New GTA 6 Gameplay Clip Showcases Hyper Realistic Graphics and Fans Can't Quite Believe It's Real IGN GTA 6 Gameplay Clips Circulate 7 Days Before Launch [2026] shattered",
-      "important": false
-    },
-    {
-      "id": "eb4d9298eb127411",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "United Airlines Doesn’t Want AI Booking Your Flights — and It’s Taking Action - Fodors Travel Guide",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMmJfRVRiV1gyUXcxNzVvbGZKWEVQNnJ5eFBTOGt2amNVSmhTdHlaenY5QXRKVTZQY3lGOWFRUUM3NlMxRFBwTnR6VWlxNkY2Q1FuS0ZBN2hTZWUxRGNZbVk0NGNYTHYtSTQ0a2ZET1I2czFNbDRzLUp5eEZUOHVPWnlhNTJkS0FiTTVZSU8yLXhteGp1ZTc1c2tWb0RFWm0ySE5JZXhBWTVjNUlu?oc=5",
-      "published": "2026-11-12T17:32:58+00:00",
-      "summary": "United Airlines Doesn’t Want AI Booking Your Flights — and It’s Taking Action Fodors Travel Guide United Airlines Is Grounding AI Travel Agents Yahoo Finance Exclusive | ",
-      "important": false
-    },
-    {
-      "id": "c80a67b51625632a",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: \"A small team will be able to build worlds that today demand hundreds of developers\" - Eurogamer.net",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE01S3g0REtEVl9vTF9yU3A4emgzR3lnTS1KOExvRlA4LWQ2TjFsZTRINHlHbkp1Ql96a0VrLWptRExxaV9Rd01UdGFFRVI0a0NtVlFVTzdoVkt2VHZKWkxmajdGMDJmb3lfMnJVeElVU3YxZw?oc=5",
-      "published": "2026-11-12T17:32:20+00:00",
-      "summary": "Xbox boss seemingly champions gen-AI development as she celebrates 25 years of Xbox: \"A small team will be able to build worlds that today demand hundreds of developers\" ",
-      "important": false
-    },
-    {
-      "id": "79f449ab3f8d748c",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "Home sales hit 16-year low in October amid soaring mortgage rates - The Guardian",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5DVGlPR1ZwaEU5LXE2TERKRTY2M1VrV3VTYXlUdVFXSURPeFJwcmdCQmxaR2VDR3k3QkxwS2FjQXZ4dTBhR2xja0JFRDY0UUFLcDFBdDNSdXl4bmdsVjdwb005eW1iTkRlSzY4SURYbTRzN3Q0bXBpQXhHSQ?oc=5",
-      "published": "2026-11-12T17:26:00+00:00",
-      "summary": "Home sales hit 16-year low in October amid soaring mortgage rates The Guardian Home Sales in October Plummet to 16-Year Low WSJ Increasing cost of housing squeezes Americ",
-      "important": false
-    },
-    {
-      "id": "3df75af8881476f7",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "AMD Zen 6 SMT Proves Very Advantageous Even For 256 Core EPYC 9996 Review - Phoronix",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QWnB4U1RLOUQ0U0N6Qno0NldYWXN6dk52MlNtaDJBZDNtVEJ2cmFFTFg3ZVp1REVYUURuZEhyZkFkeXREbU5nMnhoTDY4T0FUMll3YXRfMVo1MlBLQUE?oc=5",
-      "published": "2026-11-12T16:40:00+00:00",
-      "summary": "AMD Zen 6 SMT Proves Very Advantageous Even For 256 Core EPYC 9996 Review Phoronix AMD Zen 6 Technical Deep Dive TechPowerUp AMD Zen 6 EPYC ‘Venice’ deep dive and benchma",
-      "important": false
-    },
-    {
-      "id": "55a8c58a7b6471b7",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Free Play Days – Sumerian Six, Hypnospace Outlaw, Sunderfolk and STUFFED - XBOX Wire",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KTGU4eXlsWTlQMGY4S0czSDBmOW9ZdVo0TUtnVDNZQmM1aUYwZG14TzhNTFFuSWkzR05OSFRxSGptaFdrMjhxd2M1Y2M0SGFKaW5JRzBDYWRWQ21OX0FCT3Ntb2FRUTUwTkdtYUIzdmk2MnPSAXhBVV95cUxOaXpCbEJrZGRITUNkM2pBNzVFbHJ5bXctV05PN0dNR1l3cmhySC04TjZGLXJOVEMwVGtDZ29USDh0aC1EMWpELWpjSVhBdzZBRVRSVmcyMmVTNGpkZnlLLUdFMEc3ZHhGZmRuMG5taWxxTEVOM01pcUQ?oc=5",
-      "published": "2026-11-12T16:31:34+00:00",
-      "summary": "Free Play Days – Sumerian Six, Hypnospace Outlaw, Sunderfolk and STUFFED XBOX Wire Free Play Days: Try These Xbox Games For Free (November 12-15) Pure Xbox Xbox’s April F",
-      "important": true
-    },
-    {
-      "id": "b1665b1ccd361e76",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Microsoft just patched a serious Outlook flaw. Time to update! - PCWorld",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1pmT000TzVBRVQxQVVWRXhSRjEtdUV5VDQ3MElOZGJ0cFppc1VsdnRRcVJ1YXJBMnl2VUZTVk8xUnVMUE9vbUZONG0wNy0zRDF3NjFYZlU2WXpkWmdwckloRUw2amt5S1B4cnZIR052NWpnb09ud0FsTkhRV2tJX3RucktOOUJ1c294SlRpYldpeG5kTjl6Y2dGVEVYWHhOdFJFb0U4TExCSzR2eU9oOF9ZREJxSml6UHQxT3ZR?oc=5",
-      "published": "2026-11-12T16:18:06+00:00",
-      "summary": "Microsoft just patched a serious Outlook flaw. Time to update! PCWorld Microsoft Confirms Active Exploitation Of New Outlook Zero-Day Forbes CVE-2026-124194: Outlook Zero",
-      "important": false
-    },
-    {
-      "id": "9305144a27d86a9a",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Our poll shows the Motorola Signature 27 has an ace up its sleeve to challenge the Galaxy S27 - PhoneArena",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZVmc0ejE1VW5Cc0xUeFZsWHI5UHg5NVN4OTMyQ2Zud1o1TzRhZHJWSkNiSlQ4NVZIT2FHcFJIVVJPbFluQzhXdVEyY1hSb09qeU1rdElhZWY5RkF0Y0VFRXduTjRBU2dWVnRhRHJ1eDdQZw?oc=5",
-      "published": "2026-11-12T15:24:52+00:00",
-      "summary": "Our poll shows the Motorola Signature 27 has an ace up its sleeve to challenge the Galaxy S27 PhoneArena The Motorola Signature 27 Is A Beast Engadget Motorola Signature ",
-      "important": false
-    },
-    {
-      "id": "b5a03bce1779b378",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Nintendo Reveals Switch 2 Black Friday Deals (US) - Nintendo Life",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcXZZM3h3cW1qVlFoRG9ubnkzVnpvbWJqVGJUVVNhd0l1WkxwYldwMFZydlV6ZVlVdUlQWmJkbWIyMDQyQ2xvbmlvRTJvakpLYWpBdFhmeXpDSWFRMVlKRGZzR0I3RDdwZFlwM2w5SVRyU0NQWmpRcmlidVFKLWpwaFVYTFJPREJ6VGVWMzlrcjlJWE0?oc=5",
-      "published": "2026-11-12T15:15:00+00:00",
-      "summary": "Nintendo Reveals Switch 2 Black Friday Deals (US) Nintendo Life Nintendo announces Black Friday offers to help spread joy this holiday season - News - Nintendo Official S",
-      "important": false
-    },
-    {
-      "id": "e9ffdefae44e927f",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days - Insider Gaming",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcnN3al9qTWVlRVlMMDNuN2M0LXBCZ0stMzJ2TkpSMkRwUUhtdE5CMHRPZkkwXzRUN21uYmxBaFV4S0dfNDViaHhnbUtHQmlZZEpReGZQQ1FXTVhsRm1mUzhDeFN6SUMxRGVYNnpKWTh2aHNRVXhaMXI4b0hNcHhkaFc0VGpId1VP?oc=5",
-      "published": "2026-11-12T14:00:43+00:00",
-      "summary": "Palworld Dev Gives All Employees a GTA 6 Holiday Lasting Five Days Insider Gaming Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People PCMag",
-      "important": false
-    },
-    {
-      "id": "5372dfcf15695565",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
-      "url": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
-      "published": "2026-11-12T13:14:38+00:00",
-      "summary": "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’ The Zimbabwean author Si",
-      "important": false
-    },
-    {
-      "id": "9cfd6c0a539c60a2",
-      "section": "international",
-      "source": "BBC World",
-      "category": "国际",
-      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
-      "url": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-12T13:02:46+00:00",
-      "summary": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
-      "important": false
-    },
-    {
-      "id": "a6aae5c89e99e3c4",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Resident Evil Requiem sweeps Golden Joystick Awards - BBC",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LX2x6ZVBNZFNKVkZhZWZNVDZFbGg4RVBhNWZQdTNCS3BEOE5zMy0xX1JBOGNpVEZkTXBLTkkycmUyZVBveGszaWhKbVV4UkRmY0hNVXdZS3ItMFk?oc=5",
-      "published": "2026-11-12T12:35:14+00:00",
-      "summary": "Resident Evil Requiem sweeps Golden Joystick Awards BBC Notices 펄어비스 공식 홈페이지 Resident Evil Requiem wins four Golden Joystick Awards, including Ultimate and Console GOTY G",
-      "important": true
-    },
-    {
-      "id": "d595903f49be0fe1",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "\"Performance and endurance should work together\" – the new Winspace C6 offers speed and comfort for riders who want it all - BikeRadar",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzRE9ubFhfOURvaUtJd2RIblk5M1k1OU5XM1hid3ROc09ORzJLcDJaNTlOdG00di1SLVp1NVJZdGZKT2xSbU9GWmRFR1A5SnZzZTBEMU5aUjNnVHc?oc=5",
-      "published": "2026-11-12T10:31:47+00:00",
-      "summary": "\"Performance and endurance should work together\" – the new Winspace C6 offers speed and comfort for riders who want it all BikeRadar",
-      "important": false
-    },
-    {
-      "id": "86a95d98e5402a43",
-      "section": "international",
-      "source": "Google新闻·商业",
-      "category": "财经",
-      "title": "Social Security faces major cuts: Retirees in these 15 states could lose more than $515 a month - Cleveland.com",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPcnBXbWdyTFIxUmlWSnBEQ1VqLTU2SHc2UTNjNUxVeWdCYV94NjE4QXhuX3FuQjlUQk5MbFZ5aHBmancxMUlpQW9ZeWVUWWhhajZGUmJwT2ZPQVMyOEU5dlJ0NUxLUGt6MEF1bzd1UjVCWFd5SzQ1ZlU3T3Zqb0J0bUliS1JfOGJTQ2JTR09adG42NFRkeFhraUcweVJGUnRvYTQtWmxTYWp5Q29wTmZqR0ZFcUVMZ0p0VXNzYVlQZHg1aWVQYnowWlpWVEE0S01lMzdv0gHnAUFVX3lxTE1wbmZwQU5MTDF6aVRJTWJjaEhMaUZBSjFoX3RBOWtMbU1rcVJXcHFNbW0xdlB4UU9YYlFjYjYxbmhxdW5uaS1kOEFNalh0ZkYtdzBtN3N5RXJJSndSTVpUcHlJNVVEeERCRVZtN0xkQ0hqNWNPMVNaZ0JPS0lUQlZNQjFLNzk3Wm1YRGt3VVhvS256LU5meUFlSWVMUE5KcFp6UkRtdFZfREtSX3RLR2w1UkFoUVR1aVctR2Z5TE5xakY3TjVJUTN4cURsakF6cm5KYXRUT1pZT19nTm81SWlmU3l1NFRYWQ?oc=5",
-      "published": "2026-11-12T10:00:00+00:00",
-      "summary": "Social Security faces major cuts: Retirees in these 15 states could lose more than $515 a month Cleveland.com Social Security cuts: 28 states could lose $500 or more per ",
-      "important": false
-    },
-    {
-      "id": "23a7487fea4c13c2",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Apple iPhone Duo, one month in: I'm never going back to the Pro - Mashable SEA",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRGxIdE9xY1NfRzhwZHcyRjF4WHFIMElGVVVfTzBwZklUSTFUSFRHQ3A1OVQ5RVpQQl84YTJzbF8xNGllb1BIWUVhdkZ2NHc0cGJUc05PeDIyU0VMbkVQSE5nRE9zajd5ZHY1UmtnZzhIdnZkMndaZkV2MmJJRlcwOEFodW5pWG01bnBLX0I0SkFKMGZCdzN3YWo3aHE?oc=5",
-      "published": "2026-11-12T10:00:00+00:00",
-      "summary": "Apple iPhone Duo, one month in: I'm never going back to the Pro Mashable SEA Not everyone is loving their new iPhone Duo The Verge 30 Percent ⭐ Thurrott.com Customers uns",
-      "important": false
-    },
-    {
-      "id": "361b05bcf3c1a8af",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Vindictus: Defying Fate confirmed for PS5, ‘Cinematic’ trailer teaser [Update] - Gematsu",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMVdrVTU1LUh0V2hmS29jTGEzRTFTaGNtZE9PM1hnblFSdGtQdUt0bFU5UldScE5XdHFaUU9kek1YdjhFLU10ajM1Z3dCaXlTV1NDT2tjNzMxV19Xd2YxdFhGcThkOGN6RHlpRkhpRkVyWXhVd01hT3BNRkhKenh2RzhiQ3lva1FvMjJLQ2laUFB1dlZPWF9PMlp2eUFpUQ?oc=5",
-      "published": "2026-11-12T08:15:08+00:00",
-      "summary": "Vindictus: Defying Fate confirmed for PS5, ‘Cinematic’ trailer teaser [Update] Gematsu Vindictus: Defying Fate comes to PS5 next year PlayStation.Blog High-Octane PS5 Fan",
-      "important": false
-    },
-    {
-      "id": "61e6c601b72cff8d",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "Romancing SaGa 3: Destinies United release date moved up to February 4, 2027 - Gematsu",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZzhMTERFcnpPV1p2d1Z6TC1feFJfNGVva0p2NTB0S2FzbWxVT01XLWZ2QjBscWJpMGZvaGstUjg4SXlrcVR3SWZGSUV2LVBtSmk4TnhrQ2xGdWtnMzdMM3NOZVRUNXRvV0hNRFNIQUUyT0w2MFBIa1ZOdUZQdVpoeTMxQkU4MC1nd2dSUTJNLUZJUHdaUFVobTFoX3F1enlIaUZnQUZFS2dUQQ?oc=5",
-      "published": "2026-11-12T07:08:38+00:00",
-      "summary": "Romancing SaGa 3: Destinies United release date moved up to February 4, 2027 Gematsu Romancing SaGa 3's Great Looking PS5 Remake Moves Its Release Date Away from Persona ",
-      "important": false
-    },
-    {
-      "id": "d743e360e8721783",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Thursday briefing: What we do (and don’t) know about Alice Huang and the Nvidia affair",
-      "url": "https://www.theguardian.com/world/2026/nov/12/thursday-briefing-what-we-do-and-dont-know-about-alice-huang-and-the-nvidia-affair",
-      "published": "2026-11-12T06:43:31+00:00",
-      "summary": "In today’s newsletter: US intelligence reportedly believes the former tech executive was recruited by Beijing, raising questions about the security of the AI industry and",
-      "important": true
-    },
-    {
-      "id": "f5580235cb3444e6",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "TOMORROW X TOGETHER Team With POP MART For PPULBACollaboration - Forbes",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnlySVdCTk42bG5vZ0Fjb3pTVEs1azhCWVhoUHZJVjQwdXcwR0FNRnZFbmJka1FYdzBzcXZ4MnN1YmF6QTV3blF5aFRwLTQ2OS1JTlFoYXM5LUc1X1VNazFEMUxlanUzcUIxQUVkR2U5Uk40c2dRamM5ODJteXB1Wklzd3JUQ0FDU05tLUN2dDVUVXpwMjBYU3hSRFBsMGxUYnVRMTdKeGhCSmJVOUxyN0tGUm9uQQ?oc=5",
-      "published": "2026-11-12T03:52:13+00:00",
-      "summary": "TOMORROW X TOGETHER Team With POP MART For PPULBACollaboration Forbes",
-      "important": false
-    },
-    {
-      "id": "a8dae7d629ce0e34",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-      "url": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-      "published": "2026-11-11T22:50:37+00:00",
-      "summary": "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats Two skulls, including that of a man believed to have take",
-      "important": false
-    },
-    {
-      "id": "1541f5bf79788b89",
-      "section": "international",
-      "source": "BBC World",
-      "category": "国际",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "url": "https://www.bbc.co.uk/news/videos/ck5y132yq1ymo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-11T21:43:35+00:00",
-      "summary": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "important": false
-    },
-    {
-      "id": "ce2cc953acb4c8b7",
-      "section": "international",
-      "source": "Google新闻·科技",
-      "category": "科技",
-      "title": "10 Tech Gifts Under $50 That Punch Above Their Price Point - SlashGear",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT1dWbVBMcDQyZXh1ZnA1TmNybUF4WHJpeXg2aHFOUmdqd2xXOWFwRWN5eXAxRFcyOFViVzBBNzZIT1lvQ2g0M2dKYXY4UERWNU03TkRaZ0dyZW55QXVQVllVNDl1LV9kRkhLLVVlZ0YzV2Zrd29wSURfYmJYSUw3R3M4SkVQWVdpN2l5cjJQYw?oc=5",
-      "published": "2026-11-11T21:30:00+00:00",
-      "summary": "10 Tech Gifts Under $50 That Punch Above Their Price Point SlashGear I test trending tech for a living. These 9 are actually worth gifting USA Today Caught without a gift",
-      "important": false
-    },
-    {
-      "id": "9ea14854934d8e4f",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
-      "url": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
-      "published": "2026-11-11T19:00:33+00:00",
-      "summary": "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody A 74-year-old former member of Italy ’s radical Marxist group the Red Brig",
-      "important": false
-    },
-    {
-      "id": "c69d5c5fbfba6bf3",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
-      "url": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
-      "published": "2026-11-11T16:05:45+00:00",
-      "summary": "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans Britain should not be permitted to act as a 17th-century colonia",
-      "important": false
-    },
-    {
-      "id": "cf4328400ad9d209",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ecuador-journalist-killing",
-      "published": "2026-11-11T14:00:52+00:00",
-      "summary": "Tomás Beltrán was shot dead amid gang warfare that has turned Latin American country into one of its most violent Tomás Beltrán was manoeuvring his car into his garage on",
-      "important": true
-    },
-    {
-      "id": "45a974da7ad3a42f",
-      "section": "international",
-      "source": "The Guardian",
-      "category": "国际",
-      "title": "Ukraine captures first Indonesian prisoner of war amid surge in Russian recruitment",
-      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-indonesian-pow-prisoner-of-war-russia",
-      "published": "2026-11-11T05:33:27+00:00",
-      "summary": "Capture of man from Java follows reports that hundreds are being recruited from the south-east Asian country as Moscow seeks to boost its war effort Ukraine says it has c",
-      "important": true
     }
   ],
   "sources": [
@@ -5835,7 +5307,7 @@
     {
       "source": "Google新闻·商业",
       "ok": true,
-      "count": 59
+      "count": 60
     },
     {
       "source": "Google新闻·科技",

@@ -70,12 +70,14 @@ def main():
     rows=future.result();news+=rows;sources.append(dict(source=name,ok=True,count=len(rows)))
    except Exception as exc:
     print("Failed:",name,str(exc)[:150]);sources.append(dict(source=name,ok=False,count=0))
- cutoff=now-datetime.timedelta(hours=72)
+ cutoff=now-datetime.timedelta(hours=24)
  uniq={}
  for x in news+older:
   try:
-   if x.get("published") and datetime.datetime.fromisoformat(x["published"])<cutoff:continue
+   if not x.get("published") or datetime.datetime.fromisoformat(x["published"])<cutoff:continue
   except Exception:pass
+  if x["section"]=="domestic" and "chinanews.com.cn/gj/" in x.get("url",""):
+   x["section"]="international";x["category"]="国际"
   key=x["section"]+re.sub(r"\W+","",x["title"].casefold())[:100]
   if key not in uniq or (x.get("published") or "")>(uniq[key].get("published") or ""):uniq[key]=x
  records=sorted(uniq.values(),key=lambda x:x.get("published") or "",reverse=True)[:600]
